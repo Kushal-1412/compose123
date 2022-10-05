@@ -5,4 +5,4 @@ services:
     ports:
       - "8081-8082:8080"
     volumes:
-      - "/home/ec2-user/workspace/Fourth-22-09:/usr/local/tomcat/webapps"
+      - "/home/ec2-user/workspace/Project1-Sept30:/usr/local/tomcat/webapps"
